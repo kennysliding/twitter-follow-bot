@@ -1,0 +1,238 @@
+1663055181610	geckodriver	INFO	Listening on 127.0.0.1:58856
+1663055181790	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58857" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/s2/s_4x93kn5rjf8m_62cvz1yc40000gn/T/rust_mozprofileH1lFgo"
+1663055219733	Marionette	INFO	Marionette enabled
+2022-09-13 15:46:59.764 plugin-container[82387:1630383] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 15:46:59.764 plugin-container[82387:1630383] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 15:47:00.106 plugin-container[82387:1630383] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 15:47:00.106 plugin-container[82387:1630383] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 15:47:00.107 plugin-container[82387:1630385] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 15:47:00.107 plugin-container[82387:1630385] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1663055220144	Marionette	INFO	Listening on port 58889
+WebDriver BiDi listening on ws://localhost:58857
+Read port: 58889
+1663055220383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/s2/s_4x93kn5rjf8m_62cvz1yc40000gn/T/rust_mozprofileH1lFgo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58857/devtools/browser/6eb8186e-db45-48ff-bfd7-235e799e9141
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663055991892	geckodriver	INFO	Listening on 127.0.0.1:61821
+1663055992397	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61822" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/s2/s_4x93kn5rjf8m_62cvz1yc40000gn/T/rust_mozprofilekQZqxM"
+1663055993670	Marionette	INFO	Marionette enabled
+2022-09-13 15:59:54.019 plugin-container[82899:1643546] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 15:59:54.042 plugin-container[82899:1643546] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 15:59:54.141 plugin-container[82899:1643546] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 15:59:54.141 plugin-container[82899:1643546] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 15:59:54.141 plugin-container[82899:1643548] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 15:59:54.141 plugin-container[82899:1643548] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1663055994145	Marionette	INFO	Listening on port 61840
+WebDriver BiDi listening on ws://localhost:61822
+Read port: 61840
+1663055994469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/s2/s_4x93kn5rjf8m_62cvz1yc40000gn/T/rust_mozprofilekQZqxM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61822/devtools/browser/be5966a0-fdac-49c3-a98e-7faf8438abc4
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+1663056034052	geckodriver	INFO	Listening on 127.0.0.1:62060
+1663056034393	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62061" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/s2/s_4x93kn5rjf8m_62cvz1yc40000gn/T/rust_mozprofile8BxfTT"
+1663056036391	Marionette	INFO	Marionette enabled
+1663056036699	Marionette	INFO	Listening on port 62081
+WebDriver BiDi listening on ws://localhost:62061
+Read port: 62081
+2022-09-13 16:00:36.829 plugin-container[82925:1644374] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:00:36.866 plugin-container[82925:1644374] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1663056037085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-09-13 16:00:37.188 plugin-container[82925:1644374] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:00:37.188 plugin-container[82925:1644374] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 16:00:37.188 plugin-container[82925:1644425] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:00:37.188 plugin-container[82925:1644425] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1663056038037	Marionette	INFO	Stopped listening on port 58889
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/s2/s_4x93kn5rjf8m_62cvz1yc40000gn/T/rust_mozprofile8BxfTT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62061/devtools/browser/e6ba13de-e3b9-4f53-a172-d63dd5f04314
+1663056039480	Marionette	INFO	Stopped listening on port 61840
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+2022-09-13 08:01:57.383 plugin-container[82982:1646068] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 08:01:57.383 plugin-container[82982:1646068] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 08:01:57.424 plugin-container[82982:1646068] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 08:01:57.424 plugin-container[82982:1646068] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 08:01:57.424 plugin-container[82982:1646070] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 08:01:57.424 plugin-container[82982:1646070] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1663056143756	Marionette	INFO	Stopped listening on port 62081
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663056154347	geckodriver	INFO	Listening on 127.0.0.1:62640
+1663056154855	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62641" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/s2/s_4x93kn5rjf8m_62cvz1yc40000gn/T/rust_mozprofile8nuExN"
+1663056157528	Marionette	INFO	Marionette enabled
+1663056157931	Marionette	INFO	Listening on port 62675
+2022-09-13 16:02:37.950 plugin-container[83054:1647459] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:02:37.951 plugin-container[83054:1647459] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:62641
+Read port: 62675
+1663056158278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-09-13 16:02:38.421 plugin-container[83054:1647459] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:02:38.421 plugin-container[83054:1647459] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 16:02:38.421 plugin-container[83054:1647521] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:02:38.421 plugin-container[83054:1647521] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/s2/s_4x93kn5rjf8m_62cvz1yc40000gn/T/rust_mozprofile8nuExN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62641/devtools/browser/d01b156b-8517-4f51-b217-acf6453f219f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+2022-09-13 08:04:20.050 plugin-container[83110:1649305] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 08:04:20.050 plugin-container[83110:1649305] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 08:04:20.116 plugin-container[83110:1649305] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 08:04:20.116 plugin-container[83110:1649305] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 08:04:20.117 plugin-container[83110:1649312] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 08:04:20.117 plugin-container[83110:1649312] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+console.error: "Unable to find target with innerWindowId:4294967314"
+console.error: "Unable to find target with innerWindowId:4294967314"
+console.error: "Unable to find target with innerWindowId:4294967314"
+console.error: "Unable to find target with innerWindowId:4294967314"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+console.error: "Unable to find target with innerWindowId:4294967322"
+console.error: "Unable to find target with innerWindowId:4294967322"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+console.error: "Unable to find target with innerWindowId:4294967325"
+console.error: "Unable to find target with innerWindowId:4294967325"
+console.error: "Unable to find target with innerWindowId:4294967325"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+console.error: "Unable to find target with innerWindowId:4294967326"
+console.error: "Unable to find target with innerWindowId:4294967326"
+console.error: "Unable to find target with innerWindowId:4294967328"
+console.error: "Unable to find target with innerWindowId:4294967328"
+console.error: "Unable to find target with innerWindowId:4294967329"
+console.error: "Unable to find target with innerWindowId:4294967329"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+console.error: "Unable to find target with innerWindowId:4294967333"
+console.error: "Unable to find target with innerWindowId:4294967333"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1663057149361	geckodriver	INFO	Listening on 127.0.0.1:50718
+1663057149773	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50719" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/s2/s_4x93kn5rjf8m_62cvz1yc40000gn/T/rust_mozprofilekrbNQ2"
+1663057152297	Marionette	INFO	Marionette enabled
+1663057152588	Marionette	INFO	Listening on port 50745
+WebDriver BiDi listening on ws://localhost:50719
+Read port: 50745
+1663057152867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-09-13 16:19:12.892 plugin-container[83449:1660207] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:19:12.892 plugin-container[83449:1660207] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 16:19:13.377 plugin-container[83449:1660207] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:19:13.377 plugin-container[83449:1660207] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 16:19:13.377 plugin-container[83449:1660210] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:19:13.377 plugin-container[83449:1660210] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/s2/s_4x93kn5rjf8m_62cvz1yc40000gn/T/rust_mozprofilekrbNQ2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50719/devtools/browser/0e872fa4-21ad-450a-be8c-51bdc3bc8e06
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 399))
+1663057211128	Marionette	INFO	Stopped listening on port 50745
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663057212866	geckodriver	INFO	Listening on 127.0.0.1:51052
+1663057213279	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51053" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/s2/s_4x93kn5rjf8m_62cvz1yc40000gn/T/rust_mozprofileabkVwg"
+1663057214385	Marionette	INFO	Marionette enabled
+2022-09-13 16:20:14.498 plugin-container[83487:1661325] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:20:14.498 plugin-container[83487:1661325] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 16:20:14.519 plugin-container[83487:1661325] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:20:14.520 plugin-container[83487:1661325] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 16:20:14.520 plugin-container[83487:1661323] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:20:14.520 plugin-container[83487:1661323] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1663057214626	Marionette	INFO	Listening on port 51069
+Read port: 51069
+WebDriver BiDi listening on ws://localhost:51053
+1663057214857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/s2/s_4x93kn5rjf8m_62cvz1yc40000gn/T/rust_mozprofileabkVwg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51053/devtools/browser/65091b17-6622-4d82-8625-c4067778506f
+1663057256084	Marionette	INFO	Stopped listening on port 51069
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.1bf6e989.js, line 82: TypeError: can't access dead object
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663057258228	geckodriver	INFO	Listening on 127.0.0.1:51312
+1663057258294	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51313" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/s2/s_4x93kn5rjf8m_62cvz1yc40000gn/T/rust_mozprofilet3nJfK"
+2022-09-13 16:20:59.213 plugin-container[83520:1662205] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:20:59.230 plugin-container[83520:1662205] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1663057259248	Marionette	INFO	Marionette enabled
+2022-09-13 16:20:59.255 plugin-container[83520:1662205] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:20:59.255 plugin-container[83520:1662205] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 16:20:59.255 plugin-container[83520:1662230] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:20:59.255 plugin-container[83520:1662230] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1663057259307	Marionette	INFO	Listening on port 51325
+WebDriver BiDi listening on ws://localhost:51313
+Read port: 51325
+1663057259681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/s2/s_4x93kn5rjf8m_62cvz1yc40000gn/T/rust_mozprofilet3nJfK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51313/devtools/browser/cbf11724-82ac-406d-b74c-71f6202c08c7
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.442638b9.js, line 1: Error: ApiError: https://twitter.com/i/api/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+1663057304311	Marionette	INFO	Stopped listening on port 51325
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663057306441	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1663057317360	geckodriver	INFO	Listening on 127.0.0.1:51634
+1663057317863	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51635" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/s2/s_4x93kn5rjf8m_62cvz1yc40000gn/T/rust_mozprofilefyoQO2"
+1663057319351	Marionette	INFO	Marionette enabled
+2022-09-13 16:21:59.573 plugin-container[83570:1663302] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:21:59.573 plugin-container[83570:1663302] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 16:21:59.599 plugin-container[83570:1663302] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:21:59.599 plugin-container[83570:1663302] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 16:21:59.599 plugin-container[83570:1663303] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 16:21:59.599 plugin-container[83570:1663303] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1663057319607	Marionette	INFO	Listening on port 51651
+WebDriver BiDi listening on ws://localhost:51635
+Read port: 51651
+1663057319857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/s2/s_4x93kn5rjf8m_62cvz1yc40000gn/T/rust_mozprofilefyoQO2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51635/devtools/browser/263dd6c6-41e8-4b38-ae6c-938defa8da41
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://twitter.com"
+JavaScript error: https://twitter.com/i/flow/login, line 137: ChunkLoadError: Loading chunk ondemand.LottieWeb failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.a59fdf59.js)
+JavaScript error: https://twitter.com/i/flow/login, line 137: ChunkLoadError: Loading chunk ondemand.LottieWeb failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.a59fdf59.js)
+JavaScript error: https://twitter.com/i/flow/login, line 137: ChunkLoadError: Loading chunk ondemand.LottieWeb failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.a59fdf59.js)
+JavaScript error: https://twitter.com/i/flow/login, line 137: ChunkLoadError: Loading chunk ondemand.LottieWeb failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.a59fdf59.js)
+JavaScript error: https://twitter.com/i/flow/login, line 137: ChunkLoadError: Loading chunk ondemand.LottieWeb failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.a59fdf59.js)
+JavaScript error: https://twitter.com/i/flow/login, line 137: ChunkLoadError: Loading chunk ondemand.LottieWeb failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.a59fdf59.js)
+JavaScript error: https://twitter.com/i/flow/login, line 137: ChunkLoadError: Loading chunk ondemand.LottieWeb failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.a59fdf59.js)
+JavaScript error: https://twitter.com/i/flow/login, line 137: ChunkLoadError: Loading chunk ondemand.LottieWeb failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.a59fdf59.js)
+JavaScript error: https://twitter.com/i/flow/login, line 137: ChunkLoadError: Loading chunk ondemand.LottieWeb failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.a59fdf59.js)
+JavaScript error: https://twitter.com/i/flow/login, line 137: ChunkLoadError: Loading chunk ondemand.LottieWeb failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.LottieWeb.a59fdf59.js)
+2022-09-13 08:22:47.497 plugin-container[83582:1664074] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 08:22:47.498 plugin-container[83582:1664074] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 08:22:47.577 plugin-container[83582:1664074] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 08:22:47.577 plugin-container[83582:1664074] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-13 08:22:47.577 plugin-container[83582:1664076] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-13 08:22:47.577 plugin-container[83582:1664076] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.

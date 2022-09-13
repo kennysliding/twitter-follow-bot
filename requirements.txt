@@ -1,0 +1,22 @@
+async-generator==1.10
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1659291887007/work
+beautifulsoup4 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_croot-cdiouih5/beautifulsoup4_1650462164803/work
+brotlipy @ file:///Users/runner/miniforge3/conda-bld/brotlipy_1648854210220/work
+certifi==2022.6.15.1
+cffi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_62rp5d8fd4/croots/recipe/cffi_1659598655556/work
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1657174324676/work
+h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1652727116927/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
+outcome @ file:///home/conda/feedstock_root/build_artifacts/outcome_1655217710638/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1643496850550/work
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+selenium @ file:///home/conda/feedstock_root/build_artifacts/selenium_1660069164233/work/src/py
+sniffio @ file:///home/conda/feedstock_root/build_artifacts/sniffio_1662051266223/work
+sortedcontainers @ file:///home/conda/feedstock_root/build_artifacts/sortedcontainers_1621217038088/work
+soupsieve @ file:///tmp/build/80754af9/soupsieve_1636706018808/work
+trio @ file:///Users/runner/miniforge3/conda-bld/trio_1654688523434/work
+trio-websocket @ file:///home/conda/feedstock_root/build_artifacts/trio-websocket_1641849081899/work/dist
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1656706066251/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1658789158161/work
+wsproto @ file:///home/conda/feedstock_root/build_artifacts/wsproto_1661356345548/work
